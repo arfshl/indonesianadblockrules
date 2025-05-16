@@ -1,4 +1,5 @@
 ! Confirmed ad servers
+||eg.org^
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
