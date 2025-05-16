@@ -17,6 +17,7 @@ bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
 bioskopkeren.*##.ad_slot
+detik.com##.float-vid__content
 filmapik.*##.ads
 filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal
