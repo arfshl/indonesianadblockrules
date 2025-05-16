@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - 'master'
+      - 'arfshl-test1'
     paths:
       - 'src/advert/adservers.txt'
       - 'src/advert/thirdparty.txt'
