@@ -1,5 +1,4 @@
 ! Confirmed ad servers
-||eg.org^
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
@@ -28,6 +27,7 @@
 ||cfs2.uzone.id^
 ||csf.uzone.id^
 ||digiads.co.id^$third-party
+||eg.org^
 ||etoads.net^$third-party
 ||forumiklan.com^$third-party
 ||groupiklan.com^$third-party
