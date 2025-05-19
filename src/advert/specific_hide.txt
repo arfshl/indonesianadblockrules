@@ -617,6 +617,8 @@ kompas.com###rekomendasi-konten-pilihan-untukmu-aiml
 kompas.com##.kgnw-thumb
 kompas.com##.kgnw-slider
 kompas.com###widget-comment-bottom
+kompas.com##.kgnw-slider
+kompas.com###widget-comment-bottom
 manganime.in##.float_tengah
 s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
